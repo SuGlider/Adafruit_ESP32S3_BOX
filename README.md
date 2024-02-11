@@ -7,4 +7,4 @@ Arduino Adafruit compatible Library for ESP32-S3-Box device - 320x240 ST7789 TFT
 
 
 
-![ESP32S3 BOX Components](https://github.com/espressif/esp-box/blob/master/docs/_static/esp32_s3_box_hardware.svg)
+![ESP32S3 BOX Components](https://github.com/espressif/esp-box/blob/master/docs/_static/esp32_s3_box_hardware.png)
